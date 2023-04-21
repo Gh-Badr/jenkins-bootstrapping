@@ -19,3 +19,4 @@ dockerRun {
     clean true
     daemonize false
 }
+
